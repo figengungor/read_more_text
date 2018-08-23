@@ -1,0 +1,17 @@
+name: example
+description: An example project for read_more_text library.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  read_more_text:
+    path: ../
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
